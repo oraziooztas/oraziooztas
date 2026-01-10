@@ -1,16 +1,29 @@
-## Hi there 👋
+# Ciao, sono Orazio 👋
 
-<!--
-**oraziooztas/oraziooztas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ML / NLP Engineer** basato a Torino 🇮🇹
 
-Here are some ideas to get you started:
+Studente magistrale in **Language Technologies and Digital Humanities** all'Università di Torino.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologie
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+## 📌 Progetti in evidenza
+
+| Progetto | Descrizione |
+|----------|-------------|
+| [doc-qa-rag](https://github.com/oraziooztas/doc-qa-rag) | Sistema Q&A basato su RAG con ChromaDB |
+| [sentiment-api](https://github.com/oraziooztas/sentiment-api) | API REST per sentiment analysis con FastAPI |
+| [llm-fine-tuning](https://github.com/oraziooztas/llm-fine-tuning) | Pipeline fine-tuning LLM con LoRA/QLoRA |
+| [nlp-toolkit](https://github.com/oraziooztas/nlp-toolkit) | Toolkit Python per preprocessing NLP |
+
+## 📫 Contatti
+
+[![Email](https://img.shields.io/badge/Email-orazio.oztas@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:orazio.oztas@gmail.com)
+
+---
+
+💡 *Aperto a collaborazioni su progetti NLP e opportunità di stage/lavoro*
