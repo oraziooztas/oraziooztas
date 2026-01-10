@@ -22,7 +22,11 @@ Studente magistrale in **Language Technologies and Digital Humanities** all'Univ
 
 ## 📫 Contatti
 
+## 📫 Contatti
+
 [![Email](https://img.shields.io/badge/Email-orazio.oztas@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:orazio.oztas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orazio%20Oztas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orazio-oztas-a48848232/)
+
 
 ---
 
