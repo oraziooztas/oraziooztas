@@ -10,6 +10,10 @@ The slightly unusual part: I use AI coding tools (Claude Code, Codex, Antigravit
 - Scientometrics. A bibliometric case study of the AI and neural-networks research field.
 - Before this, my BA thesis looked at artificial intelligence in science-fiction cinema and society, including AI alignment.
 
+**Thesis direction (scoping, topic locking ~June 2026)**
+
+I'm shaping an MSc thesis on LLM evaluation. The question I keep coming back to: can we trust an LLM-as-a-judge when the judge is small or local, and humans themselves disagree on the answer? It connects my annotation background (inter-annotator agreement) to a problem labs actually have. Plain Python, local models, built in the open.
+
 **Learning right now (and posting about it)**
 
 - Python for data and ML, then the math foundations (linear algebra, statistics)
